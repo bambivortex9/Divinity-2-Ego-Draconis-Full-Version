@@ -239,3 +239,6 @@ This repository serves as the official landing page for Divinity 2: Ego Draconis
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Divinity 2: Ego Draconis today!**
+
+---
+**Last updated:** 2026-09-07 18:31:03 UTC
