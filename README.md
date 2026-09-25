@@ -241,4 +241,4 @@ This repository serves as the official landing page for Divinity 2: Ego Draconis
 **Get the most recent version of Divinity 2: Ego Draconis today!**
 
 ---
-**Last updated:** 2026-09-25 17:40:02 UTC
+**Last updated:** 2026-09-25 20:55:21 UTC
